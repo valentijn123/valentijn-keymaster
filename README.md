@@ -29,6 +29,10 @@ Hoi Hoi, hier een markdown bestand met alle relevante scripts in mijn keymaster 
   - [Winkel Pagina](https://store.lbscripts.com/package/6597273)
   - [Voorbeeld](https://www.youtube.com/watch?v=5ZILDh2V_iI)
   - Dit script zou oprecht game changing zijn, volledig gesynced met lb phone, foto's en mails zijn gesynchroniseerd wat echt heel gaaf is. Maar de highlight zijn oprecht de ambulance en politie app. De politie app kan oprecht de meos verplaatsen naar in de stad. Met extra features kijk oprecht ff de preview het opslaan van bewijs/bewijskluis kan ook zoveel makkelijker via dit script, ik kan hier een preview van laten zien hoe ik dit heb toegepast in complex. De ambulance app is ook tof, maak zaken waardoor lichaamcondities altijd duidelijk zijn voor ambulanciers ook  kan je natuurlijk met de tablet foto's maken  van  de verwondingen van  de patient en toevoegen aan een zaak in de ambulance app. Net zoals bij lb-phone kan je ook voor de tablet heel makkelijk custom  content maken, ik heb bijvoorbeeld ooit een app gemaakt voor bedrijven waar ze hun voorraad konden bestellen met levertijd enz.
+- **NX Racing**
+  - [Winkel Pagina](https://nexure.dev/product/6507811)
+  - [Voorbeeld](https://www.youtube.com/watch?v=I1ysDYMjOP4)
+  - Beste racing script op de markt vooral visueel gezien.
 
 
 ### Starter Jobs
@@ -154,10 +158,145 @@ Hoi Hoi, hier een markdown bestand met alle relevante scripts in mijn keymaster 
   - [Voorbeeld](https://www.youtube.com/watch?v=27-UqD86Jvg)
   - Heel tof geadvanceerd, drug script. Echt heel uniek. eventueel kan dit ook wat rivaliteit veroorzaken tussen families/gangs.
 
-- **Kuz Quality Cocaine**
-  - [Winkel Pagina](https://kuzquality.com/package/6579091)
-  - [Voorbeeld](https://www.youtube.com/watch?v=27-UqD86Jvg)
-  - Heel tof geadvanceerd, drug script. Echt heel uniek. eventueel kan dit ook wat rivaliteit veroorzaken tussen families/gangs.
+- **Kuz Quality Cocaine Islands Pack**
+  - [Winkel Pagina](https://kuzquality.com/package/6581481)
+  - [Voorbeeld](https://www.youtube.com/watch?v=Avdq3WQVdJY)
+  - Voegt 3 extra eilanden toe aan het cocaine script
+
+- **Kuz Quality Cocaine Islands Pack**
+  - [Winkel Pagina](https://kuzquality.com/package/6581481)
+  - [Voorbeeld](https://www.youtube.com/watch?v=Avdq3WQVdJY)
+  - Voegt 3 extra eilanden toe aan het cocaine script
+
+- **Kuz Quality Meth rumpos**
+  - [Winkel Pagina](https://kuzquality.com/package/6469568)
+  - [Voorbeeld](https://www.youtube.com/watch?v=SXbVI697d2k)
+  - Het normale kuzquality meth script kan ik niet transferen for some reason, maar deze asset voegt basicly meth rumpos toe aan het meth script.
+
+- **Kuz Quality Smugglers Heist**
+  - [Winkel Pagina](https://kuzquality.com/package/5415145)
+  - [Voorbeeld](https://www.youtube.com/watch?v=Jhjggqzdlec)
+  - Geadvanceerde unieke heist, die een speler niet 123 kan uitvoeren.
+
+
+### Overheid
+- **Wasabi Police (opensource)**
+  - [Winkel Pagina](https://wasabiscripts.com/product/5373578)
+  - [Voorbeeld](https://www.youtube.com/watch?v=irN_Idosjqc&t=113s)
+  - Politie script die technisch top in elkaar zit, het is een overzichtelijk script en geadvanceerd. aangezien het open source is valt het nog vanalles aan te passen
+
+- **Wasabi Ambulance (opensource)**
+  - [Winkel Pagina](https://wasabiscripts.com/product/5316504)
+  - [Voorbeeld](https://www.youtube.com/watch?v=kYQQgW-gvWE)
+  - Top ambulance script, injuries zijn in de server opgeslagen waardoor mensen niet kunnen liegen over hun verwondingen. Ik vind de injury effects nog een beetje zwak. Maar omdat het open source is kan dat natuurlijk worden aangepast.
+
+### Bedrijven
+- **Utility Kitchen**
+  - [Winkel Pagina](https://forum.cfx.re/t/utility-kitchen/5292505)
+  - [Voorbeeld](https://www.youtube.com/watch?v=oqPhIvDs9Lk)
+  - Ontzettend gaaf restaurant script. Eventueel een  toffe toevoeging voor de burgetshot, en binnenkort komt de updates voor pizza's! Je moet hier zelf nog een order systeem omheen schrijven maar dat is geen probleem.
+
+### Consumeables
+- **Zyke Smoking**
+  - [Winkel Pagina](https://store.zykeresources.com/package/6351336)
+  - [Voorbeeld](https://www.youtube.com/watch?v=Jo4WDEzxn8g)
+  - Tof smoking script, kijk ff de preview. Dat is makkelijker Xd. De maker komt binnenkort ook met een consumeables script wat een beetje in diezelfde trant is.
+
+
+### Mlo's
+- **Diabless Pillbox Hospital**
+  - [Winkel Pagina](https://le-diable.tebex.io/category/mlo)
+  - [Voorbeeld](https://imgur.com/a/mlo-script-hospital-new-generaton-of-hospital-diables-mlo-MSW4QjB)
+  - Super vet groot ziekenhuis, met werkende xray machines enzoo
+- **FM LTD Gasoline stations**
+  - [Winkel Pagina](https://www.fm-shop.it/products?product=6621136)
+  - [Voorbeeld](https://www.youtube.com/watch?v=zqqNSYHVcWw)
+  - Super vet redesign van de LTD gasoline stations.
+- **FM Ponsonbys**
+  - [Winkel Pagina](https://www.fm-shop.it/products?product=6390824)
+  - [Voorbeeld](https://www.youtube.com/watch?v=CrkMihmHEfU)
+  - Hel vet ponsonbys design, toffe vervanger voor die van gabz
+- **FM Small ammunition**
+  - [Winkel Pagina](https://www.fm-shop.it/products?product=6372937)
+  - [Voorbeeld](https://www.youtube.com/watch?v=c1gzsVcSGyc)
+  - Tof redesign van small ammunation
+- **FM ammunition**
+  - [Winkel Pagina](https://www.fm-shop.it/products?product=5662350)
+  - [Voorbeeld](https://www.youtube.com/watch?v=worSBQ249g0&t)
+  - Tof redesign van  ammunation
+- **FM Suburban**
+  - [Winkel Pagina](https://www.fm-shop.it/products?product=6357059)
+  - [Voorbeeld](https://www.youtube.com/watch?v=Vbgn-xCXI4k)
+  - Hel vet Surburban design, toffe vervanger voor die van gabz
+- **FM Binco**
+  - [Winkel Pagina](https://www.fm-shop.it/products?product=5828412)
+  - [Voorbeeld](https://www.youtube.com/watch?v=UmZXNGahmWk)
+  - Hel vet Binco design, toffe vervanger voor die van gabz
+- **FM BeanMachine**
+  - [Winkel Pagina](https://www.fm-shop.it/products?product=5722450)
+  - [Voorbeeld](https://www.youtube.com/watch?v=YIoym0I7f4Q&t)
+  - Hel vet Beanmachine design (met doorkijkende ramen), toffe vervanger voor die van gabz
+- **FM 24/7 stores**
+  - [Winkel Pagina](https://www.fm-shop.it/products?product=5761622)
+  - [Voorbeeld](https://www.youtube.com/watch?v=-c0iQ4yNByI)
+  - Vet redesign van de 24/7 stores, door die kelder zou je daar ook een toffe overval aan kunnen toevoegen.
+- **FM Fleeca banken**
+  - [Winkel Pagina](https://www.fm-shop.it/products?product=6181472)
+  - [Voorbeeld](https://www.youtube.com/watch?v=i-LxOUzUQRE)
+  - Heel tof vernieuwend fleeca design
+- **FM PDM**
+  - [Winkel Pagina](https://www.fm-shop.it/products?product=6364747)
+  - [Voorbeeld](https://www.youtube.com/watch?v=XMeSzPXp5xU)
+  - Heel tof vernieuwend pdm design let op er zijn twee locaties! je kan ze natuurlijk individueel uitzetten
+- **FM Rusty Garage**
+  - [Winkel Pagina](https://www.fm-shop.it/products?product=6228470)
+  - [Voorbeeld](https://www.youtube.com/watch?v=ew3-bCfPma4)
+  - Heel tof vernieuwend pdm design let op er zijn twee locaties! je kan ze natuurlijk individueel uitzetten
+- **MXC Tattoo Shop**
+  - [Winkel Pagina](https://www.markz3d.com/products/maps/premium?product=6615985)
+  - [Voorbeeld](https://www.youtube.com/watch?v=okIqVLwfTyk)
+  - Echt een hele gedetaileerde tattoo shop, ook andere stylen in paleto en sandy enz.
+- **MXC Vanglico Jewerly**
+  - [Winkel Pagina](https://www.markz3d.com/products/maps/premium?product=6533136)
+  - [Voorbeeld](https://www.youtube.com/watch?v=FRJNpqMFK_o)
+  - Oprecht het mooiste vanglico design wat ik heb gezien, ook echt gemaakt om overvalbaar te maken.
+- **MXC Dynasty8 MLO**
+  - [Winkel Pagina](https://www.markz3d.com/products/maps/premium?product=6410097)
+  - [Voorbeeld](https://www.youtube.com/watch?v=4fOayNVY3qM)
+  - Heel tof voor de makelaars, bevat ook EUP.
+- **MXC Gun Club MLO**
+  - [Winkel Pagina](https://www.markz3d.com/products/maps/premium?product=6364819)
+  - [Voorbeeld](https://www.youtube.com/watch?v=LNpImfcfJ6o)
+  - Heeft meerdere locaties rond de map verstopt, tof voor criminele locaties
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
