@@ -117,17 +117,17 @@ Hoi Hoi, hier een markdown bestand met alle relevante scripts in mijn keymaster 
   - [Voorbeeld](https://www.youtube.com/watch?v=Dj-KOep6ZH8)
   - Dit script heeft 5h vgm al.
   
-  - **Rcore Golf**
+- **Rcore Golf**
   - [Winkel Pagina](https://store.rcore.cz/package/6123208)
   - [Voorbeeld](https://www.youtube.com/watch?v=6c9JafAUghw)
   - Golf script die technisch heel tof in elkaar zit. Kunnen leuke rp scenarios uit ontstaan denk ik.
 
-  - **Rcore Bowling**
+- **Rcore Bowling**
   - [Winkel Pagina](https://store.rcore.cz/package/5125529)
   - [Voorbeeld](https://www.youtube.com/watch?v=sWRML0QOoiM&t=1s)
   - Bowl script die technisch heel tof in elkaar zit. Kunnen leuke rp scenarios uit ontstaan denk ik. Die manier hoe het in  elkaar zit lijkt een beetje op Wii Sports Bowling
 
-  - **Rcore Casino**
+- **Rcore Casino**
   - [Winkel Pagina](https://store.rcore.cz/package/5156878)
   - [Voorbeeld](https://www.youtube.com/watch?v=u4BoaJE2nEE)
   - Heel tof casino script wat veel van de native gta functies gebruikt, wat er echt heel tof uit ziet.
