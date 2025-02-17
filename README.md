@@ -133,6 +133,36 @@ Hoi Hoi, hier een markdown bestand met alle relevante scripts in mijn keymaster 
   - Heel tof casino script wat veel van de native gta functies gebruikt, wat er echt heel tof uit ziet.
 
 
+- **Bytelabs Fishing**
+  - [Winkel Pagina](https://store.byte-labs.net/package/6594259)
+  - [Voorbeeld](https://www.youtube.com/watch?v=bRI-jsMl8_o)
+  - Super tof vis script, leuke minigames en grappig dat je de lijn/3d prop van de vis ziet. Je  kan  er inprincipe ook nog een zelfgeschreven verkoopsysteem aan kunnen toevoegen aangezien op deze manier vind ik het een beetje mweh.
+  
+### Onderwereld
+- **Peuren Gangs**
+  - [Winkel Pagina](https://peuren.tebex.io/package/6243746)
+  - [Voorbeeld](https://www.youtube.com/watch?v=3QfVYZWw8uc)
+  - tof geadvanceerd en customizable gang script. Maar ik denk persoonlijk  dat het niet echt past bij het familie systeem van 5h, evt. zou je het gang aanmaken kunnen limiten bij alleen families.
+
+- **Lation weed**
+  - [Winkel Pagina](https://peuren.tebex.io/package/6243746)
+  - [Voorbeeld](https://www.youtube.com/watch?v=3QfVYZWw8uc)
+  - heeft 5h al
+
+- **Kuz Quality Cocaine**
+  - [Winkel Pagina](https://kuzquality.com/package/6579091)
+  - [Voorbeeld](https://www.youtube.com/watch?v=27-UqD86Jvg)
+  - Heel tof geadvanceerd, drug script. Echt heel uniek. eventueel kan dit ook wat rivaliteit veroorzaken tussen families/gangs.
+
+- **Kuz Quality Cocaine**
+  - [Winkel Pagina](https://kuzquality.com/package/6579091)
+  - [Voorbeeld](https://www.youtube.com/watch?v=27-UqD86Jvg)
+  - Heel tof geadvanceerd, drug script. Echt heel uniek. eventueel kan dit ook wat rivaliteit veroorzaken tussen families/gangs.
+
+
+
+
+
 
 
 
