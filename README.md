@@ -274,7 +274,19 @@ Hoi Hoi, hier een markdown bestand met alle relevante scripts in mijn keymaster 
   - [Winkel Pagina](https://www.markz3d.com/products/maps/premium?product=6364819)
   - [Voorbeeld](https://www.youtube.com/watch?v=LNpImfcfJ6o)
   - Heeft meerdere locaties rond de map verstopt, tof voor criminele locaties
-
+- **MXC PizzaThis MLO**
+  - [Winkel Pagina](https://www.markz3d.com/products/maps/premium?product=6487522)
+  - [Voorbeeld](https://www.youtube.com/watch?v=3Y3Ei-sedl8)
+  - Toffe kleine, pizza restuarantjes. meerdere locaties in de stad. Is vooral komt als utility kitchen met de pizza update komt.
+- **MXC SmoKing Vape Store MLO**
+  - [Winkel Pagina](https://www.markz3d.com/products/maps/premium?product=6303556)
+  - [Voorbeeld](https://www.youtube.com/watch?v=BLTnZQYXArM)
+  - Hele gedetaileerde MLO, meerdere locaties. En is evt. wel grappig samen met zyke_smoking
+- **MXC Pitstop Garage V2 MLO**
+  - [Winkel Pagina](https://www.markz3d.com/products/maps/premium?product=6290827)
+  - [Voorbeeld](https://www.youtube.com/watch?v=XPRe0islTHk)
+  - Hele toffe underground tuning shop
+  
 
 
 
