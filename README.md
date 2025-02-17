@@ -3,9 +3,15 @@
 ## Inhoudsopgave
 - [Introductie](#introductie)
 - [Script Categorieën](#script-categorieën)
-  - [Automatisering Scripts](#automatisering-scripts)
-  - [Hulpprogramma Scripts](#hulpprogramma-scripts)
-  - [Gaming Scripts](#gaming-scripts)
+  - [Elektronica (Phone, Tablets etc.)](#elektronica-phone-tablets-etc)
+  - [Starter Jobs](#starter-jobs)
+  - [Huizen / Appartementen](#huizen--appartementen)
+  - [Activiteiten](#activiteiten)
+  - [Onderwereld](#onderwereld)
+  - [Overheid](#overheid)
+  - [Bedrijven](#bedrijven)
+  - [Consumeables](#consumeables)
+  - [Mlo's](#mlos)
 
 ## Introductie
 Hoi Hoi, hier een markdown bestand met alle relevante scripts in mijn keymaster (Shit dat niet werkt of echt totaal nutteloos is heb ik weggelaten natuurlijK!)
@@ -272,7 +278,7 @@ Hoi Hoi, hier een markdown bestand met alle relevante scripts in mijn keymaster 
 
 
 
-  
+
 
 
 
